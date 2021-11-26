@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">blubank</string>
+    <string name="transaction_title">رسید پرداخت</string>
+    <string name="transaction_time">دوشنبه ۱۷ خرداد ۱۴۰۰ ۱۷:۱۷</string>
+    <string name="remaining_balance_text_view">موجودی باقیمانده: ۱۰۰۰۰ریال</string>
+    <string name="receipt_button">رسید تراکنش</string>
+    <string name="note_edit_text">Note...</string>
+</resources>
